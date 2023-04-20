@@ -14,8 +14,8 @@ const databaseConfig={
     'host': '127.0.0.1',
     'port': 5432,
     'database': 'delivery_db',
-    'user': 'postgres',
-    'password': 'j1o1s1u1e1'
+    'user': 'postgressql',
+    'password': 'admin'
 };
 
 const db = pgp(databaseConfig);
